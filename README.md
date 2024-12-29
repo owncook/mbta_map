@@ -16,6 +16,7 @@ This project aims to create an interactive map for the Massachusetts Bay Transpo
 ## What's to Come
 - Integration with MBTA API for real-time data
 - Finished integration of remaining subway lines
+- PCB to hold circuit components
 
 Stay tuned for updates and new features!
 
